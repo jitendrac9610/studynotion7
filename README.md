@@ -1,4 +1,3 @@
-
 # 📚 StudyNotion - EdTech Platform
 
 StudyNotion is a fully-featured EdTech web application designed to provide an engaging and seamless learning experience. It allows users to explore, enroll in, and manage online courses. This platform includes role-based access for students and instructors, secure authentication, and interactive learning features.
@@ -26,31 +25,37 @@ StudyNotion is a fully-featured EdTech web application designed to provide an en
 ## 🛠️ Tech Stack
 
 ### 🔷 Frontend
+
 - **React.js**
 - **Tailwind CSS**
 - **Vercel** (for deployment)
 
 ### 🔶 Backend
+
 - **Node.js**
 - **MongoDB**
 - **Express.js**
+
 ---
 
 ## 📦 Installation
 
 ### Clone the repository
+
 ```bash
 git clone https://github.com/jitendrac9610/studynotion7.git
 cd studynotion7
 ```
 
 ### Setup Frontend
+
 ```bash
 npm install
 npm start
 ```
 
 ### Setup Backend
+
 ```bash
 cd server
 npm install
@@ -105,6 +110,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Jiten**  
 🔗 [GitHub](https://github.com/jitendrac9610)  
-📧 [Add your email here]  
+📧 [jitendrachoudhary26384@gmail.com]
+
 ```
 
+```
