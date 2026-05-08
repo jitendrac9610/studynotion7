@@ -7,7 +7,7 @@ StudyNotion is a fully-featured EdTech web application designed to provide an en
 
 ## 🔗 Live Demo
 
-🌐 https://study-notion-git-main-yashpawaras-projects.vercel.app/
+🌐 [Add your live demo URL here if available]
 
 ---
 
@@ -40,8 +40,8 @@ StudyNotion is a fully-featured EdTech web application designed to provide an en
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yashu1412/StudyNotion-2.git
-cd StudyNotion-2
+git clone https://github.com/jitendrac9610/studynotion7.git
+cd studynotion7
 ```
 
 ### Setup Frontend
@@ -103,8 +103,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Yashpalsingh Pawara**  
-🔗 [GitHub](https://github.com/yashu1412)  
-📧 yashpalsinghpawara@gmail.com  
+**Jiten**  
+🔗 [GitHub](https://github.com/jitendrac9610)  
+📧 [Add your email here]  
 ```
 
