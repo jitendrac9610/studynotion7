@@ -4,7 +4,7 @@
   "description": "studynotion-backend",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js",
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [
